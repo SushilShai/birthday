@@ -401,7 +401,7 @@ export default function Home() {
               letterSpacing: "0.05em",
             }}
           >
-            Alisha
+            ❤️Alisha
           </p>
 
           {/* Subtitle */}
@@ -578,7 +578,7 @@ export default function Home() {
               <Cards />
 
              <p className="font-bold  mt-2" style={{ color: "rgba(200,160,255,0.6)", letterSpacing: "0.04em" }}>
-                 Hope you liked the surprise! 
+                 Hope you liked the surprise! ❤️
              </p>
               <button
                 className="font-body"
@@ -801,7 +801,7 @@ export default function Home() {
                       textShadow: "0 1px 4px rgba(0,0,0,0.25)",
                       letterSpacing: "0.08em",
                       marginTop: 12,
-                    }}>Alisha 🎂</span>
+                    }}>❤️Alisha 🎂</span>
                   </div>
 
                   <div
