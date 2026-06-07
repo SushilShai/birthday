@@ -1,11 +1,19 @@
 import Stack from './Stack';
+import alisha1 from './assets/images/alisha1.jpg';
+import alisha2 from './assets/images/alisha2.jpg';
+import alisha3 from './assets/images/alisha3.jpg';
+import alisha4 from './assets/images/alisha4.jpg';
+import alisha5 from './assets/images/alisha5.jpg';
+import alisha6 from './assets/images/alisha6.jpg';
 
 export default function Cards() {
   const images = [
-    'https://images.unsplash.com/photo-1480074568708-e7b720bb3f09?q=80&w=500&auto=format',
-    'https://images.unsplash.com/photo-1449844908441-8829872d2607?q=80&w=500&auto=format',
-    'https://images.unsplash.com/photo-1452626212852-811d58933cae?q=80&w=500&auto=format',
-    'https://images.unsplash.com/photo-1572120360610-d971b9d7767c?q=80&w=500&auto=format'
+    alisha6,
+    alisha5,
+    alisha4,
+    alisha3,
+    alisha2,
+    alisha1,
   ];
 
   return (
